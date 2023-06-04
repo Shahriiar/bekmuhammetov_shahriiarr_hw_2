@@ -8,7 +8,7 @@ public class Main {
         System.out.println(character(generateRandomAge(), generateRandomAge()));
 
     }
-
+    //)
 
     public static String character(int years , int temp ){
         if ((years >= 20 && years <= 45) && (temp >= -20 && temp <= 30)){
